@@ -1,0 +1,4 @@
+enum UpdateStatus {
+  read,
+  delete,
+}
